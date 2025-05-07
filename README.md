@@ -1,3 +1,4 @@
+# Lorenzo Marzola Begnozzi ||  RA: 23067179-2
 # 🧩 **PessoaCsvAdapter** - Projeto com o Padrão de Design Adapter
 
 Este projeto implementa o padrão de design **Adapter**, permitindo a conversão de dados de um arquivo `.csv` para objetos da classe `Pessoa`. O objetivo é adaptar o formato de dados CSV para um formato de objetos que pode ser utilizado por outros componentes do sistema.
